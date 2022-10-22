@@ -1,3 +1,4 @@
+/* eslint-disable react/jsx-one-expression-per-line */
 import React from 'react';
 import { Switch, Route, Link } from 'react-router-dom';
 import { Layout, Typography, Space } from 'antd';
@@ -45,9 +46,7 @@ const App = () => (
           style={{ color: 'white', textAlign: 'center' }}
         >
           Copyright © 2022
-          <Link to="/">Cryptohub Inc.</Link>
-          {' '}
-          <br />
+          <Link to="/">Cryptokash Inc.</Link> <br />
           All Rights Reserved.
         </Typography.Title>
         <Space>
