@@ -1,6 +1,6 @@
 # ![Badge](https://img.shields.io/badge/Microverse-blueviolet)
 
-## Cryptoverse: React capstone project - Metrics webapp
+## Cryptohub: React capstone project - Metrics webapp
 
 This project is based on Coinranking API: The simplest API for Cryptocurrency Prices - Real-Time & Historical - Crypto Market Data - Coins - Exchanges and Bing News Search API:An AI service from Microsoft Azure that turns any app into a news search resource.
 
@@ -13,6 +13,7 @@ This project is based on Coinranking API: The simplest API for Cryptocurrency Pr
   - JS
   - React.JS
   - Redux
+  - Ant Design
 
 - Technologies used:
   - Git
@@ -41,13 +42,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 ### Prerequisites
 
 - Node.js as prerequisites for npm installation
-- install node package manager(npm): npm helps to install stylelint.
-- stylelint for debuging code
+- install node package manager(npm): npm helps to install dependencies
 - Any browser of your choice to display the webpage contents.
 
 ### Setup
 
-> Download and install browser.
+> Download and install any browser.
 
 ### Usage
 
@@ -63,7 +63,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 - GitHub: [@AlierPM](https://github.com/AlierPM)
 - Twitter: [@AlierPM](https://twitter.com/AlierPM)
-- LinkedIn: [@AlierPM](https://www.linkedin.com/in/alier-philip-maguet-b11653203/)
+- LinkedIn: [@AlierPM](https://www.linkedin.com/in/alierphilipmaguet/)
 
 ## 🤝 Contributing
 
@@ -74,6 +74,14 @@ Feel free to check the [issues page](../../issues/).
 ## Show your support
 
 Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+    Hat tip to anyone whose code was used
+    Inspiration
+    et
+
+Original design idea by Nelson Sakwa on Behance
 
 ## 📝 License
 
