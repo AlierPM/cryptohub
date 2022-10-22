@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Homepage renders correctly 1`] = `
+<div
+  className="loader"
+>
+  <div
+    aria-busy={true}
+    aria-live="polite"
+    className="ant-spin ant-spin-spinning"
+  >
+    <span
+      className="ant-spin-dot ant-spin-dot-spin"
+    >
+      <i
+        className="ant-spin-dot-item"
+      />
+      <i
+        className="ant-spin-dot-item"
+      />
+      <i
+        className="ant-spin-dot-item"
+      />
+      <i
+        className="ant-spin-dot-item"
+      />
+    </span>
+  </div>
+</div>
+`;
