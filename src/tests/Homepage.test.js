@@ -3,7 +3,7 @@ import Renderer from 'react-test-renderer';
 import { BrowserRouter } from 'react-router-dom';
 import { Provider } from 'react-redux';
 import store from '../app/store';
-import Homepage from '../components/homepage';
+import Homepage from '../components/homepage.jsx';
 
 describe('Homepage', () => {
   it('renders correctly', () => {
