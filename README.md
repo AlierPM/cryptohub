@@ -4,6 +4,11 @@
 
 This project is based on Coinranking API: The simplest API for Cryptocurrency Prices - Real-Time & Historical - Crypto Market Data - Coins - Exchanges and Bing News Search API:An AI service from Microsoft Azure that turns any app into a news search resource.
 
+
+
+
+![Cryptokash-mockup](https://user-images.githubusercontent.com/69401590/197359368-67b65eda-4e04-46a2-843a-2eae062e4d25.PNG)
+
 ## Built With
 
 - Major languages
@@ -20,7 +25,7 @@ This project is based on Coinranking API: The simplest API for Cryptocurrency Pr
   - GitHub
   - Vs code
 
-## Live Demo
+## [Video Presentation](https://www.loom.com/share/d7fbcfe766bd43b3b3dcdd49d19da78d)
 
 ## Getting Started with the Cryptoverse web app
 
@@ -55,7 +60,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ### Deployment
 
-> Project reside in this Repository. You can clone the repo or download the files manually to your local machine.
+[Live Demo](https://cryptokash.netlify.app/)
 
 ## Authors
 
