@@ -4,6 +4,11 @@
 
 This project is based on Coinranking API: The simplest API for Cryptocurrency Prices - Real-Time & Historical - Crypto Market Data - Coins - Exchanges and Bing News Search API:An AI service from Microsoft Azure that turns any app into a news search resource.
 
+
+
+
+![Cryptokash-mockup](https://user-images.githubusercontent.com/69401590/197359368-67b65eda-4e04-46a2-843a-2eae062e4d25.PNG)
+
 ## Built With
 
 - Major languages
